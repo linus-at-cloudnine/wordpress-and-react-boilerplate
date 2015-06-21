@@ -14,7 +14,7 @@ open http://localhost:3000
 
 ## Config
 ``
-// URL to Wordpress JSON API
+// URL to Wordpress JSON API  
 sourcecode/config.js
 ``
 

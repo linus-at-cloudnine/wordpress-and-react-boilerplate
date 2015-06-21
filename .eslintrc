@@ -58,13 +58,6 @@ rules:
   react/no-unknown-property: 2
   react/react-in-jsx-scope: 2
   react/self-closing-comp: 2
-  react/sort-comp: [2, {
-    "order": [
-      "/^constructor$/",
-      "lifecycle",
-      "everything-else",
-      "render"
-    ]}]
   react/wrap-multilines: 2
 
   # WARNINGS
